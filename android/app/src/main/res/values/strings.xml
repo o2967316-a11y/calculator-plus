@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Calculator Plus</string>
+    <string name="title_activity_main">Calculator Plus</string>
+    <string name="package_name">com.calculator.plus</string>
+    <string name="custom_url_scheme">com.calculator.plus</string>
+</resources>
